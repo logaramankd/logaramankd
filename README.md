@@ -29,18 +29,16 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=logaramankd&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logaramankd&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
-## 📈 Activity Graph
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=logaramankd&theme=tokyo-night" alt="Activity Graph" />
 </p> -->
